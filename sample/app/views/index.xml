@@ -1,0 +1,5 @@
+<Alloy>
+	<Window class="container" layout="vertical">
+		<Label id="label">Hello, World</Label>
+	</Window>
+</Alloy>

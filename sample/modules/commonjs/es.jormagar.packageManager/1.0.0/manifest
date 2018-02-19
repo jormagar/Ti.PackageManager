@@ -1,0 +1,10 @@
+version: 1.0.0
+description: Hyperloop Android Package Manager
+author: Jorge Macias <jormagar@gmail.com>
+license: Apache 2.0
+copyright: Copyright © 2017 Jorge Macías
+name: es.jormagar.packageManager
+moduleid: es.jormagar.packageManager
+guid: d9c8eb91-07b6-467c-8154-6633ed4cdcb3
+platform: commonjs
+minsdk: 7.0.2.GA
